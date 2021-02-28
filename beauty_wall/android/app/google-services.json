@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "841405270427",
+    "firebase_url": "https://wallpapers-for-iphone-11-bf3bb.firebaseio.com",
+    "project_id": "wallpapers-for-iphone-11-bf3bb",
+    "storage_bucket": "wallpapers-for-iphone-11-bf3bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841405270427:android:88c0f923f183e3417cf93e",
+        "android_client_info": {
+          "package_name": "com.rktechhub.beauty_wall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841405270427-g4jifkfq57apuu3b2gk31a9imfi6qbp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLrUINoWVeI7zG49afdlpImcJhIvDTqRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841405270427-g4jifkfq57apuu3b2gk31a9imfi6qbp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841405270427:android:232af2d77c7594287cf93e",
+        "android_client_info": {
+          "package_name": "com.rktechhub.hd_wallpapers_for_iphone_11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841405270427-n4p93kjjuteghjoovi9imdrh4dpbg4ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rktechhub.hd_wallpapers_for_iphone_11",
+            "certificate_hash": "aa8fa2ba8a966eda4609b098d835a873bbc66594"
+          }
+        },
+        {
+          "client_id": "841405270427-g4jifkfq57apuu3b2gk31a9imfi6qbp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLrUINoWVeI7zG49afdlpImcJhIvDTqRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841405270427-g4jifkfq57apuu3b2gk31a9imfi6qbp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841405270427:android:637826dd46949f817cf93e",
+        "android_client_info": {
+          "package_name": "com.rktechhub.nature_wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841405270427-g4jifkfq57apuu3b2gk31a9imfi6qbp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLrUINoWVeI7zG49afdlpImcJhIvDTqRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841405270427-g4jifkfq57apuu3b2gk31a9imfi6qbp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841405270427:android:325adeeb446458ce7cf93e",
+        "android_client_info": {
+          "package_name": "com.rktechhub.space_wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841405270427-oe3sjjdhfdir7b9m6kr6j9ln64kn72d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rktechhub.space_wallpapers",
+            "certificate_hash": "e309d082466a881f2403fc037db7713e07d424d6"
+          }
+        },
+        {
+          "client_id": "841405270427-g4jifkfq57apuu3b2gk31a9imfi6qbp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLrUINoWVeI7zG49afdlpImcJhIvDTqRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841405270427-g4jifkfq57apuu3b2gk31a9imfi6qbp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
