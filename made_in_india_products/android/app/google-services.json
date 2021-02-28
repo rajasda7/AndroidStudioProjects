@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11140893563",
+    "firebase_url": "https://made-in-india-1bae2.firebaseio.com",
+    "project_id": "made-in-india-1bae2",
+    "storage_bucket": "made-in-india-1bae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11140893563:android:bd18668148dd6fb7274bde",
+        "android_client_info": {
+          "package_name": "raja.com.made_in_india_products"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11140893563-3rv6idvgpn7s428ud2371akuqelkv3k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ztY41p6HlxMwrm_opibeTcRaYty1xpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11140893563-3rv6idvgpn7s428ud2371akuqelkv3k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
